@@ -12,3 +12,4 @@ C:\Users\49078790830\Desktop\Introducao C#\obj\Debug\net9.0\refint\Introducao C#
 C:\Users\49078790830\Desktop\Introducao C#\obj\Debug\net9.0\Introducao C#.pdb
 C:\Users\49078790830\Desktop\Introducao C#\obj\Debug\net9.0\Introducao C#.genruntimeconfig.cache
 C:\Users\49078790830\Desktop\Introducao C#\obj\Debug\net9.0\ref\Introducao C#.dll
+C:\Users\49078790830\Desktop\Introducao C#\obj\Debug\net9.0\Introducao C#.sourcelink.json
